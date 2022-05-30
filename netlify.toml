@@ -7,4 +7,4 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "geolocation=(self), microphone=()"
     Cache-Control = "max-age=31556952"
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://code.jquery.com https://fonts.googleapis.com https://fonts.gstatic.com; frame-ancestors 'none'; form-action 'self'; connect-src 'self'; img-src 'self'; base-uri 'self';"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://code.jquery.com https://fonts.googleapis.com https://fonts.gstatic.com https://www.google.com; form-action 'self'; connect-src 'self'; img-src 'self'; base-uri 'self';"
