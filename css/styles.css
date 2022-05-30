@@ -15,6 +15,7 @@ body {
 #home {
     background-image: url(../img/home-bg.webp);
     background-size: cover;
+  background-position: center;
 }
 
 #doctor-img {
