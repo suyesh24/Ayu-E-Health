@@ -6,5 +6,5 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "geolocation=(self), microphone=()"
-    Cache-Control = "max-age=31556952"
+    Cache-Control = "max-age=10"
     Content-Security-Policy = "default-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://code.jquery.com https://fonts.googleapis.com https://fonts.gstatic.com https://www.google.com https://docs.google.com; form-action 'self'; img-src * 'self' data: https:; connect-src 'self'; base-uri 'self';"
